@@ -17,7 +17,7 @@
 1. Clone the repository:
 ```bash
 git clone https://github.com/chenfly2/R2-BOT.git
-cd R2-TESTNET-BOT
+cd R2-BOT
 ```
 
 2. Install dependencies:
