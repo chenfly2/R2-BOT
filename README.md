@@ -16,7 +16,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/chenfly2/R2-BOT.igt
+git clone https://github.com/chenfly2/R2-BOT.git
 cd R2-TESTNET-BOT
 ```
 
@@ -77,20 +77,6 @@ const USDC_TOKEN_ADDRESS = '0x8BEbFCBe5468F146533C182dF3DFbF5ff9BE00E2';
 - R2-R2USD
 - USDC-R2USD
 - R2USD-sR2USD
-
-## Security 🔒
-
-- **Never commit your .env file**
-- Start with small transaction counts
-
-## Contributing 🤝
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License 📄
 
