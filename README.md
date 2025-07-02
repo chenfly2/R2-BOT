@@ -26,9 +26,10 @@ npm install
 ```
 
 3. Create your `.env` file:
-
 PRIVATE_KEY=0xYourFirstPrivateKey
+
 PRIVATE_KEY=0xYourSecondPrivateKey
+
 PRIVATE_KEY=0xYourThirdPrivateKey
 
 ## Usage 🚀
